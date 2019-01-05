@@ -5,4 +5,6 @@ Security alert for webpack-dev-server! Found by GitHub.
 
 So please replaced webpack-dev-server version to bigger than 3.1.11. 
 
+link: https://nvd.nist.gov/vuln/detail/CVE-2018-14732
+
 @Fatal-Poison @Eric

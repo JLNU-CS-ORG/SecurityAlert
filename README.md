@@ -5,4 +5,4 @@ Security alert for webpack-dev-server! Found by GitHub.
 
 So please replaced webpack-dev-server version to bigger than 3.1.11. 
 
-＠Fatal-Posion 
+@Fatal-Posion @Eric
